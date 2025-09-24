@@ -1,6 +1,6 @@
 - Processed Outputs: https://drive.google.com/drive/folders/1fKk-T4FfbX3paHAIsPTZayt3c5E50vXm?usp=sharing
 - Final Report: https://drive.google.com/drive/folders/1mPVWEv5yONlYTaBCOUJT1juWLYLYoC2A?usp=sharing
-- Screen Recording: [link here]
+- Screen Recording: https://drive.google.com/file/d/1SbMmdIYYtfWn6QC5I36gyLj6d410ZY8a/view?usp=sharing
 
 Train Video Processing – Automated Wagon Segmentation & Coverage Report
 Overview
